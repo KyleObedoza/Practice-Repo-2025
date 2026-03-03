@@ -3,5 +3,4 @@
 <ol>
   <li>John Kyle Obedoza</li>
   <li>Sean Ethan Go</li>
-  <li>Milk</li>
 </ol> 
