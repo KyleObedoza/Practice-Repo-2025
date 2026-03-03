@@ -1,3 +1,7 @@
 # Practice-Repo-2025
-John Kyle Obedoza
-Sean Ethan Go
+
+<ol>
+  <li>John Kyle Obedoza</li>
+  <li>Sean Ethan Go</li>
+  <li>Milk</li>
+</ol> 
